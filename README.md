@@ -12,7 +12,7 @@
 - [Evaluation](#evaluation)
 - [Training](#training)
 ### Data
-Please check [Data.md](Data.md) for more detail.
+Please check [Data.md](/Dtata.md) for more detail.
 
 ## Citation
 
