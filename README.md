@@ -3,7 +3,7 @@
 
 
 ## Todo list
-- [ ] To release code and data
+- [ ] To release code
 - [x] Relase the data on huggingface
 
 ## Contents
