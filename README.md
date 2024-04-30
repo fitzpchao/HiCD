@@ -12,7 +12,7 @@
 - [Evaluation](#evaluation)
 - [Training](#training)
 ### Data
-Please check [Data.md](/Data.md) for more detail.
+Please check [Data.md](/Data.md) for more detail. The all test dataset can be found on [HuggingFace](https://huggingface.co/datasets/FitzPC/HiCD_TestData/tree/main).
 
 ## Citation
 
