@@ -4,8 +4,15 @@
 
 ## Todo list
 - [ ] To release code and data
+- [x] Relase the data on huggingface
 
-
+## Contents
+- [Install](#install)
+- [Data](#data)
+- [Evaluation](#evaluation)
+- [Training](#training)
+### Data
+Please check [Data.md](Data.md) for more detail.
 
 ## Citation
 
