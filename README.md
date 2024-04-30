@@ -4,7 +4,7 @@
 
 ## Todo list
 - [ ] To release code
-- [x] Relase the data on huggingface
+- [x] Relase data on huggingface
 
 ## Contents
 - [Install](#install)
